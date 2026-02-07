@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroSolution.Api", "AgroSolution.Api\AgroSolution.Api.csproj", "{32CEB19C-25BF-4705-AA5A-7262A16C353C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroSolution.Core", "AgroSolution.Core\AgroSolution.Core.csproj", "{D4700E08-803F-4D7A-BD92-E8F157505CBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroSolution.Core", "AgroSolution.Core\AgroSolution.Core.csproj", "{F8816FBC-CAE6-42E4-BA29-B36E7DD1E907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{32CEB19C-25BF-4705-AA5A-7262A16C353C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32CEB19C-25BF-4705-AA5A-7262A16C353C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32CEB19C-25BF-4705-AA5A-7262A16C353C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4700E08-803F-4D7A-BD92-E8F157505CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4700E08-803F-4D7A-BD92-E8F157505CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4700E08-803F-4D7A-BD92-E8F157505CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4700E08-803F-4D7A-BD92-E8F157505CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8816FBC-CAE6-42E4-BA29-B36E7DD1E907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8816FBC-CAE6-42E4-BA29-B36E7DD1E907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8816FBC-CAE6-42E4-BA29-B36E7DD1E907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8816FBC-CAE6-42E4-BA29-B36E7DD1E907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
